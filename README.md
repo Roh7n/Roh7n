@@ -1,7 +1,7 @@
 ### <h3 align="center">hello there</h3>
-<body>
+<p>
 <img src="https://tenor.com/view/anime-wind-windy-gif-14115823">
- </body>
+ </p>
 
 <!--
 **L1qx/L1qx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
