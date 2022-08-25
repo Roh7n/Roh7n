@@ -1,6 +1,6 @@
 ### <h3 align="center">hello there</h3>
 <p>
-<img src="https://tenor.com/view/anime-wind-windy-gif-14115823">
+<img src="https://tenor.com/view/anime-wind-windy-gif-14115823"/>
  </p>
 
 <!--
