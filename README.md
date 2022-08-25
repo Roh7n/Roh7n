@@ -15,5 +15,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<details open>
+<summary>🤝 <b>To connect with me</b></summary>
+
+<p align = "center">
+ 
+
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/liqxmeg)
+[<img arc="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />](https://steamcommunity.com/profiles/76561198112800200/)
+
+[![Visits Badge](https://badges.pufler.dev/visits/cyberdud3/cyberdud3?style=for-the-badge)](https://github.com/cyberdud3/cyberdud3)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=L1qx&theme=gruvbox)
