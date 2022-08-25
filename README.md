@@ -1,6 +1,6 @@
 ### <h3 align="center">hello there</h3>
 <p align="center">
-<img src="https://c.tenor.com/_b9EDbGso5IAAAPo/anime-wind.mp4">
+<img src="https://c.tenor.com/_b9EDbGso5IAAAPo/anime-wind.mp4"/>
  </p>
 
 <!--
