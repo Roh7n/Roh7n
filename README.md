@@ -1,6 +1,6 @@
 ### <h3 align="center">hello there</h3>
 <body>
-<img src="https://github.com/L1qx/gifprofile/blob/main/anime-wind.mp4">
+<img src="https://tenor.com/view/anime-wind-windy-gif-14115823">
  </body>
 
 <!--
