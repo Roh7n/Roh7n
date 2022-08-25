@@ -1,7 +1,6 @@
 ### <h3 align="center">hello there</h3>
-<p align="center">
-<img src="https://c.tenor.com/_b9EDbGso5IAAAPo/anime-wind.mp4"/>
- </p>
+![windyaesthetic](https://user-images.githubusercontent.com/105118103/186568561-cd47a428-79cb-4832-97d9-d0027885a658.gif)
+
 
 <!--
 **L1qx/L1qx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
