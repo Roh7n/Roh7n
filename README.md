@@ -1,5 +1,7 @@
-### <center>hello there</center>
-<img src="https://weheartit.com/entry/314617485">
+### <h3 align="center">hello there</h3>
+<body>
+<img src="https://github.com/L1qx/gifprofile/blob/main/anime-wind.mp4">
+ </body>
 
 <!--
 **L1qx/L1qx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
