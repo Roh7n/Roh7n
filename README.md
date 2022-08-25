@@ -10,8 +10,8 @@
 <details open>
 <summary align="center"><b>connect with me</b></summary>
 <p align="center">
-	<a href="https://twitter.com/liqxmeg"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
-	<a href="https://steamcommunity.com/profiles/76561198112800200/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+	<a href="https://twitter.com/liqxmeg" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+	<a href="https://steamcommunity.com/profiles/76561198112800200/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 </p>
 </details>
 
