@@ -16,7 +16,7 @@
 </details>
 
 <br>
-
+<!--
 <!--gitstats-->
 <details open>
 <summary align="center"><b>gitstats</b></summary>
@@ -24,4 +24,4 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=L1qx&show_icons=true&theme=onedark&line_height=27">
 </p>
 </details>
-    
+    -->
