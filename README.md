@@ -5,7 +5,6 @@
 <h3 align="center">👋 Hello! I'm Rohan.</h3>
 
 <h1 align="center">
-hmu
 <a href="https://twitter.com/liqxmeg"><img src="https://github.com/L1qx/gifprofile/blob/main/X.jpg" width="100" height="100"></img></a> •
 <a href="https://www.snapchat.com/add/roh7nn?share_id=hW6nySkvKHQ&locale=en-GB"> <img src="https://github.com/L1qx/gifprofile/blob/main/snap.jpeg" width="100" height="100"></img></a> •
 <a href="https://open.spotify.com/user/ijadvlczrnqbc4bikpzcwd118?si=a349ed71003940a9"><img src="https://github.com/L1qx/gifprofile/blob/main/Spotify2.png" width="100" height="100"></img></a>
