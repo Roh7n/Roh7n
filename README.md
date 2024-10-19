@@ -14,7 +14,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring cloud container technologies.
-- ⚡ In my free time I solve problems on GeeksforGeeks and probably read some books.
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
