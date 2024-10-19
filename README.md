@@ -40,7 +40,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### ✍️ Blog Posts : 
-*on the way*
+<!--### ✍️ Blog Posts : 
+*on the way* -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
