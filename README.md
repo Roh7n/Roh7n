@@ -10,7 +10,7 @@
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br>
+<br>
 
 Languages and Tools :
 <p>
@@ -21,6 +21,7 @@ Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
+
 <br>
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/rohanbabs4446/)
