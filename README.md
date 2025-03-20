@@ -8,7 +8,7 @@
     📖 Software architecture • Distributed systems
     🎮 Music • Games • Code • Art
 </pre>
-<br><br>
+<br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br>
 
