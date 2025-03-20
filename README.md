@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/Roh7n/gifprofile/blob/main/cat.jpeg" width="25%" align="right" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=140&lines=Hello+hello++;I'm+Rohan%2C+a+tech+wizard+and+a+code+warlock+wannabe" width="70%" />
-<br><br>
+<br>
 <pre>
     💼 BSC @ UOC • Full-stack dev • Software Engineer
     💻 System programming languages • ERP Systems
