@@ -25,6 +25,7 @@ Languages and Tools :
 <br>
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/rohanbabs4446/)
+[![](https://img.shields.io/badge/leetcode-FFA116)](https://leetcode.com/u/qPPvFRjNbm/)
 
 </div>
 
