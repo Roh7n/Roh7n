@@ -6,7 +6,7 @@
     💼 BSC @ UOC • Full-stack dev • Expo
     💻 System programming languages • ERP Systems
     📖 Software architecture • Distributed systems
-    🎮 Music • Games • Code • Art
+    🎮 Code • Books • Art • Music • Games   
 </pre>
 <br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
@@ -27,6 +27,7 @@ Languages and Tools :
 
 [![](https://img.shields.io/badge/leetcode-FFA116)](https://leetcode.com/u/qPPvFRjNbm/)
 [![](https://img.shields.io/badge/spotify-1DB954)](https://open.spotify.com/user/ijadvlczrnqbc4bikpzcwd118)
+[![](https://img.shields.io/badge/goodreads-7B5E2F)](https://www.goodreads.com/user/show/194760905-rohan-baburaj)
 
 </div>
 
