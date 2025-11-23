@@ -5,7 +5,7 @@
 <pre>
     💼 BSC @ UOC • Full-stack dev • Expo
     💻 System programming languages • ERP Systems
-    📖 Software architecture • Distributed systems
+    📖 Figma • Touch Designer
     🎮 Code • Books • Art • Music • Games   
 </pre>
 <br>
