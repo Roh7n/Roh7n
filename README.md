@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/Roh7n/gifprofile/blob/main/silversurfergalaxy.jpg" width="25%" align="right" />
-<img src="https://readme-typing-svg.herokuapp.com?font=&size=17&duration=2000&pause=100&color=97ACCA&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=70&lines=Hi%2C+I'm%2C+Rohan%2C;philosophically+observing+how+to+center+a+div." width="70%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=&size=17&duration=2000&pause=100&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=60&lines=Hi%2C+I'm%2C+Rohan%2C;philosophically+observing+how+to+center+a+div." width="70%" />
 <br>
 <pre>
     💼 BSC @ UOC • Full-stack dev • Expo
